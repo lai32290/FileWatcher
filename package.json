@@ -1,0 +1,25 @@
+{
+  "name": "file-watcher",
+  "version": "1.0.0",
+  "description": "This is a simple File Watcher with Gulp, make your Web Liveview Environment just including watch files.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-livereload": "^3.8.0",
+    "gulp-watch": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lai32290/FileWatcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lai32290/FileWatcher/issues"
+  },
+  "homepage": "https://github.com/lai32290/FileWatcher"
+}
